@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+
+.box-one {
+    background-color: aliceblue;
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+    border: 30 solid #9B51E0;
+    margin: 60px;
+
+} 
+
+.box-two {
+    background-color: aliceblue;
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+    border: 30 solid #9D51E0;
+    margin: 60px;
+
+} 
+
+.box-three {
+    background-color: aliceblue;
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+    border: 30 solid #9C51D0;
+    margin: 60px;
+
+} 
