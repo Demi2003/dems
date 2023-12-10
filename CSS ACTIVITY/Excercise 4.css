@@ -1,0 +1,23 @@
+/* Mobile devices */
+@media screen and (max-width: 768px) {
+    body {
+      font-size: 14px;
+    }
+    .container {
+      width: 90%;
+    }
+    .image {
+      width: 100%;
+    }
+  }
+  
+  
+  /* Desktop devices */
+  @media screen and (min-width: 1024px) {
+    body {
+      font-size: 18px;
+    }
+    .container {
+      width: 50%;
+    }
+  }

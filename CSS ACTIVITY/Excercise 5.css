@@ -1,0 +1,24 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .navbar a {
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .navbar a:hover {
+    background-color: #ddd;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .navbar {
+      flex-direction: column;
+    }
+  }
